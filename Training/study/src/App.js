@@ -1,9 +1,9 @@
 import React from 'react';
-import Counter from './Counter';
+import UserList from './UserList';
 
 function App() {
   return (
-    <Counter />
+    <UserList />
   );
 }
 
